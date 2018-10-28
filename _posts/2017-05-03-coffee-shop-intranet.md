@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coffee Shop Intranet"
-date:   2017-05
+date:   2017-05-03
 excerpt: "An intranet created with a Raspberry Pi and router."
 project: true
 tag:
