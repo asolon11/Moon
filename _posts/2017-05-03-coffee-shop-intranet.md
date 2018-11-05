@@ -11,7 +11,7 @@ comments: false
 ---
 
 <figure>
-    <a href="http://github.com/asolon11/asolon11.github.io/blob/master/assets/img/coffee-shop-intranet.png"><img src="http://github.com/asolon11/asolon11.github.io/blob/master/assets/img/coffee-shop-intranet.png"></a>   
+    <a href="https://farm5.staticflickr.com/4850/30785833037_4a0f194e4f_z.jpg"><img src="https://farm5.staticflickr.com/4850/30785833037_4a0f194e4f_z.jpg"></a>   
 </figure>
 
 The Coffee Shop Intranet is an intranet powered by a Raspberry Pi and router. This project was created by a group of four people with the intent to provide customers of a small business, such as a coffee shop, with entertainment. Accessibility to this intranet is only available within the dimensions of the coffee shop. Once the customers leave, they will not be able to access the website and features within the intranet.
