@@ -10,6 +10,10 @@ tag:
 comments: false
 ---
 
+{% capture images %}
+    https://github.com/asolon11/asolon11.github.io/blob/master/assets/img/coffee-shop-intranet.png
+{% endcapture %}
+
 <a href="https://github.com/asolon11/asolon11.github.io/blob/master/assets/img/coffee-shop-intranet.png">
     <img src="https://github.com/asolon11/asolon11.github.io/blob/master/assets/img/coffee-shop-intranet.png"/>
 </a>
