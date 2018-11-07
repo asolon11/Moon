@@ -10,7 +10,7 @@ tag:
 comments: false
 ---
 
-<figure class="half">
+<figure>
     <a href="https://farm5.staticflickr.com/4851/43941759320_c6fcdb19f2_z.jpg"><img src="https://farm5.staticflickr.com/4851/43941759320_c6fcdb19f2_z.jpg"></a>
     <a href="https://farm5.staticflickr.com/4806/43941759620_74470609a4_z.jpg"><img src="https://farm5.staticflickr.com/4806/43941759620_74470609a4_z.jpg"></a>
 </figure>
