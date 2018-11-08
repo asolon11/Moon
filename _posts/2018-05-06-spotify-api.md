@@ -24,3 +24,7 @@ The languages used in this project are:
 * JavaScript
 * HTML5
 * CSS
+
+Items Used:
+* [Spotify API](https://developer.spotify.com/documentation/web-api/)
+* [Bulma Framework](https://bulma.io)
