@@ -14,8 +14,6 @@ comments: false
     <a href="https://farm5.staticflickr.com/4803/45694621012_581dced7ff_b.jpg"><img src="https://farm5.staticflickr.com/4803/45694621012_581dced7ff_b.jpg"></a>   
 </figure>
 
-## ___Spotify API___
-
 The Spotify App is a web application that utilizes the Spotify API. This app was created using Vue cli, Express server, and Bulma CSS framework. In this project, the API was integrated to enable users to search for a specified song or artist. When the user selects the artist that they are looking for, the artist's name, popularity score, and an image are presented. 
 
 The purpose of doing this project was to become familiar with integrating an API into an application and using a server to communicate with the frontend.
