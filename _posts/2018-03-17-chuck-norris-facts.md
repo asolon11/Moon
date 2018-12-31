@@ -2,7 +2,7 @@
 layout: post
 title:  "Chuck Norris Facts"
 date:   2018-03-17
-excerpt: "An web page that displays random facts about Chuck Norris."
+excerpt: "A web page that displays random facts about Chuck Norris."
 project: true
 tag:
 - chuck norris
