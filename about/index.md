@@ -6,9 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle">
-                    </a>
+<img src="{{ site.logo }}" class="img-circle">
 
 Hi there! I'm Alyssa. I recently graduated from California State University, Los Angeles with a Bachelor's Degree in Computer Science and am currently seeking a job or internship related to Web Development.
 
