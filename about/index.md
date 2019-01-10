@@ -6,6 +6,8 @@ date: 2016-03-21
 comments: false
 ---
 <img src="/assets/img/as-logo.png" class="img-circle" style="width:200px;height:200px;">
+
+<br />
 Hi there! I'm Alyssa. I recently graduated from California State University, Los Angeles with a Bachelor's Degree in Computer Science and am currently seeking a job or internship related to Web Development.
 
 Languages that I am familiar with are Java, JavaScript, SQL, HTML, CSS, and a little bit of C++.
