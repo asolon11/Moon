@@ -17,3 +17,5 @@ This project was developed by a group of six people. I was the Documentation Lea
 
 Language used:
 * Python 
+
+More information about the project may be viewed [here](https://csns.calstatela.edu/department/cs/project/view?id=6059914).
