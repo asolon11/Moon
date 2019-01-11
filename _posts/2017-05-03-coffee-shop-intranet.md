@@ -26,3 +26,6 @@ The languages that were used to create this project are:
 * PHP
 * HTML
 * CSS
+
+If you would like to view the project, click the following:
+[Link to the project](https://github.com/asolon11/CoffeeShopIntranet)
