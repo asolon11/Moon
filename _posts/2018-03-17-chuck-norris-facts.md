@@ -21,3 +21,5 @@ This project is a webpage that displays random facts about Chuck Norris. The use
 ### __Item(s) Used:__
 * [Chuck Norris Jokes API](https://api.chucknorris.io)
 * [Vue Framework](https://vuejs.org/v2/guide/)
+
+To view the project click [here](https://github.com/asolon11/JavaScript-Projects/tree/master/ChuckNorrisFacts)
