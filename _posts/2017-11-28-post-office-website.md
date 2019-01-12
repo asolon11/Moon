@@ -23,6 +23,9 @@ Customer functions:
 
 Languages used to create this project are:
 * PHP
-* MySQL
+* SQL
 * HTML
 * CSS
+
+Database:
+* MySQL
