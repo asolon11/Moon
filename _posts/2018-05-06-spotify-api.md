@@ -26,3 +26,6 @@ The languages used in this project are:
 Items Used:
 * [Spotify API](https://developer.spotify.com/documentation/web-api/)
 * [Bulma Framework](https://bulma.io)
+
+Link to the Repo:
+* [Project Repository](https://github.com/mattsegovia/spotify-final/tree/master/spotify_api)
